@@ -3,5 +3,3 @@ A repository for Coursera's IBM Applied Data Science Capstone Project. This proj
 
 The three Jupyter Notebooks on Clustering Neighborhoods in Toronto walk through the Python code used for analysis. 
 'The Battle of Neighborhoods' provides the final report containing the findings and conclusions.
-
-Prerequisite - basic data science knowledge; Python
